@@ -5,7 +5,7 @@
   "bugs": {
     "url": "https://github.com/nextauthjs/next-auth/issues"
   },
-  "homepage": "https://localhost:9001",
+  "homepage": "https://3000-cs-c2ee77fc-3b41-4b6c-8c73-56012fe72790.cs-us-east1-vpcf.cloudshell.dev",
   "scripts": {
     "dev": "next",
     "build": "next build",
